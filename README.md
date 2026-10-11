@@ -1,4 +1,4 @@
 # Olá, Mundo
 primeiro teste
 
-trinando git
+treinando git
